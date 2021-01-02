@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "XPTN",
+  "author": "XQIEZ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -42,10 +42,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XP-TN/XPTNNBOTV.git"
+    "url": "git+https://github.com/rifqiikhsan/XQIEZBOT1.git"
   },
   "bugs": {
-    "url": "https://github.com/XP-TN/XPTNNBOTV/issues"
+    "url": "https://github.com/rifqiikhsan/XQIEZBOT1/issues"
   },
-  "homepage": "https://github.com/XP-TN/XPTNNBOTV#readme"
+  "homepage": "https://github.com/rifqiikhsan/XQIEZBOT1#readme"
 }
